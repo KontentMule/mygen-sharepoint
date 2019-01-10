@@ -1,0 +1,30 @@
+{
+  "name": "mygen-sharepoint",
+  "version": "0.0.1",
+  "description": "Yeoman Generator for SharePoint Projects without ShellJS vulnerability",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KontentMule/mygen-sharepoint.git"
+  },
+  "author": "Saikat Dasgupta <sykesdg@gmail.com> (http://www.saikatdasgupta.com)",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/KontentMule/mygen-sharepoint/issues"
+  },
+  "homepage": "https://github.com/KontentMule/mygen-sharepoint#readme",
+  "dependencies": {
+    "yeoman-generator": "^2.0.4"
+  },
+  "peerDependencies": {
+    "@microsoft/generator-sharepoint": ">=1.1.1",
+    "yo": ">=2.0.4"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}

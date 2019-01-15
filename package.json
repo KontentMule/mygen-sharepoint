@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/KontentMule/mygen-sharepoint#readme",
   "dependencies": {
-    "yeoman-generator": "^2.0.4"
+    "KontentMule/yeoman-shelljs": "^0.0.1"
   },
   "peerDependencies": {
     "@microsoft/generator-sharepoint": ">=1.1.1",
